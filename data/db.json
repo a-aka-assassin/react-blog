@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Chest Workout",
+      "body": "In publishing and graphic design, lorem ipsum is a filler text / dummy text commonly used to demonstrate the graphic elements of a document or visual presentation. Replacing meaningful content that could be distracting with placeholder text may allow viewers to focus on graphic aspects such as font, typography, and page layout.",
+      "author": "Arsalan"
+    },
+    {
+      "id": 2,
+      "title": "Arm Workout",
+      "body": "In publishing and graphic design, lorem ipsum is a filler text / dummy text commonly used to demonstrate the graphic elements of a document or visual presentation. Replacing meaningful content that could be distracting with placeholder text may allow viewers to focus on graphic aspects such as font, typography, and page layout.",
+      "author": "Bane"
+    },
+    {
+      "id": 3,
+      "title": "Shoulder Workout",
+      "body": "In publishing and graphic design, lorem ipsum is a filler text / dummy text commonly used to demonstrate the graphic elements of a document or visual presentation. Replacing meaningful content that could be distracting with placeholder text may allow viewers to focus on graphic aspects such as font, typography, and page layout.",
+      "author": "Batman"
+    }
+  ]
+}
